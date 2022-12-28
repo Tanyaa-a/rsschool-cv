@@ -1,6 +1,6 @@
 # Tetiana Andriyanova
 -------
-## Contacts
+### Contacts
     location: Danville, Ca
     e-mail: tnzhuk@gmail.com
     github:Tanyya-a
@@ -11,7 +11,7 @@
    
    
 --------
-## Skills
+### Skills
 * Python
 * Selenium
 * HTML5, CSS3
@@ -20,14 +20,18 @@
 * Git, GitHub
 * VSCode, Jira
 --------
-## Experience
+### Experience
+
+
 QA Engineer
 San Ramon,CA
 American Programming Company
---------
-## Code
 
-## Languages:
+
+--------
+### Code
+
+### Languages:
 * English: Full Professional 
 * Ukrainian: Native
 * Russian: Bilingual
