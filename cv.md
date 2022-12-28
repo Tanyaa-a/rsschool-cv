@@ -28,6 +28,8 @@ QA Engineer
 San Ramon,CA
 American Programming Company
 
+
+--------
 ### Education
 
 
@@ -38,6 +40,9 @@ American Programming Company
 
 --------
 ### Code
+TBD
+
+-------
 
 ### Languages:
 * English: Full Professional 
