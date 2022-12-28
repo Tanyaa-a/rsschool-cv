@@ -1,17 +1,21 @@
-[School link]:  https://rs.school/js/
+
 # Tetiana Andriyanova
--------
+---
 ### Contacts
-    location: Danville, Ca
-    e-mail: tnzhuk@gmail.com
-    github:Tanyya-a
--------
+
+location: Danville, Ca
+
+
+e-mail: tnzhuk@gmail.com
+
+
+---
    
    
-   Thorough Quality Assurance Engineer skilled in executing quality inspections to identify and correct non-conformance issues. Meticulous and industrious with drive for inplementing continuous  improvement initiatives to foster consistent quality. Open to innovative 
+   Thorough Quality Assurance Engineer skilled in executing quality inspections to identify and correct non-conformance issues. Meticulous and industrious with drive for inplementing continuous  improvement initiatives to foster consistent quality. 
    
    
---------
+---
 ### Skills
 * Python
 * Selenium
@@ -20,16 +24,20 @@
 * SQL
 * Git, GitHub
 * VSCode, Jira
---------
+---
 ### Experience
 
 
-QA Engineer
-San Ramon,CA
-American Programming Company
+QA Engineer  
 
 
---------
+San Ramon,CA 
+
+
+American Programming Company / Dec 2021 to Current
+
+
+---
 ### Education
 
 
@@ -38,11 +46,11 @@ American Programming Company
 
 2022-2023  [RS School](https://rs.school/js/)
 
---------
+---
 ### Code
-TBD
+TBA
 
--------
+---
 
 ### Languages:
 * English: Full Professional 
