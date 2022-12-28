@@ -1,3 +1,4 @@
+[School link]:  https://rs.school/js/
 # Tetiana Andriyanova
 -------
 ### Contacts
@@ -27,6 +28,13 @@ QA Engineer
 San Ramon,CA
 American Programming Company
 
+### Education
+
+
+2006 Kyiv National Economic Univercity
+
+
+2022-2023  [RS School](https://rs.school/js/)
 
 --------
 ### Code
