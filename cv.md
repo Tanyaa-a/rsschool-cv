@@ -3,9 +3,7 @@
 ---
 ### Contacts
 
-location: Danville, Ca
-
-
+location: Danville, Ca  
 e-mail: tnzhuk@gmail.com
 
 
@@ -29,11 +27,7 @@ e-mail: tnzhuk@gmail.com
 
 
 QA Engineer  
-
-
-San Ramon,CA 
-
-
+San Ramon,CA   
 American Programming Company / Dec 2021 to Current
 
 
@@ -41,9 +35,7 @@ American Programming Company / Dec 2021 to Current
 ### Education
 
 
-2006 Kyiv National Economic Univercity
-
-
+2006 Kyiv National Economic Univercity  
 2022-2023  [RS School](https://rs.school/js/)
 
 ---
