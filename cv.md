@@ -21,7 +21,6 @@ e-mail: tnzhuk@gmail.com
 * JavaScrpipt 
 * SQL
 * Git, GitHub
-* VS Code, Jira
 
 
 ---
