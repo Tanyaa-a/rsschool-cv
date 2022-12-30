@@ -1,5 +1,5 @@
 
-https://tanyaa-a.github.io/rsschool-cv/cv
+gitthttps://tanyaa-a.github.io/rsschool-cv/cv
 
 
 
