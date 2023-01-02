@@ -16,4 +16,13 @@
   @font-face {
     font-family: Roboto;
      src: url("assets/fonts/Roboto.ttf");
+  .left {
+      width: 25%;
+      height: 100%;
+      float: left;
+    }
    
+    .right {
+      width: 75%;
+      position: relative;
+    }
