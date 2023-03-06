@@ -42,7 +42,21 @@ American Programming Company / Dec 2021 to Current
 
 ---
 ### Code
-TBA
+
+```
+function nicknameGenerator(name){
+   const vowels = "aeiou";
+  if (name.length < 4){
+    return "Error: Name too short";
+  }
+  else if (vowels.includes(name[2])) { 
+    return name.slice(0, 4);
+  }
+  else {
+    return name.slice(0, 3);
+  }
+}
+```
 
 ---
 
