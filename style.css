@@ -54,6 +54,7 @@ html {
   justify-content: space-between;
   flex-direction: column;
   padding-left: 0px;
+  list-style: none;
 }
 .contact {
   margin: 5px;
@@ -78,6 +79,9 @@ h1 {
 .logo {
   display: block;
   margin: auto;
+  background-image: url(./assets/logo/logoA.png);
+  width: 70px;  
+  height: 70px;
 }
 .nav-item {
   color: black;
